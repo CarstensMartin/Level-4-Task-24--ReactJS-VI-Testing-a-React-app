@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*Add Padding*/
+  padding: 10%;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*Style the Footer*/
+footer{
+  background-color: grey;
+}
+
+/*Style the classes that are displaying*/
+.example_word{
+  border-style: solid;
+  border-color:black;
+}
+.word_definition{
+  text-align: justify;
+}
